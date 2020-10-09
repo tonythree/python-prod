@@ -1,2 +1,2 @@
-def function_subdir():
+def my_function():
 	print('hey from subdir!')
